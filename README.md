@@ -11,3 +11,5 @@ Added AIML lab 5...https://github.com/saivarsha123/AIML-2025/blob/main/AIML_lab_
 Added AIML lab 6...https://github.com/saivarsha123/AIML-2025/blob/main/AIML_lab_6.ipynb
 
 Added AIML lab 8...https://github.com/saivarsha123/AIML-2025/blob/main/AIML_lab_8.ipynb
+
+Added AIML lab 9...https://github.com/saivarsha123/AIML-2025/blob/main/AIML_lab_9.ipynb
